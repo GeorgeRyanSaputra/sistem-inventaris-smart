@@ -91,7 +91,7 @@ if(isset($_SESSION['login'])) {
                 </button>
             </form>
 
-            <p class="text-center text-muted mt-5" style="font-size: 12px;">&copy; 2024 Inventaris Smart - PWEB-1H</p>
+            <p class="text-center text-muted mt-5" style="font-size: 12px;">&copy; 2026 Inventaris Smart - PWEB-1H</p>
         </div>
     </div>
 </div>
