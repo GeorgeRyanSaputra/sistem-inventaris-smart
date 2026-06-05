@@ -32,5 +32,3 @@ Password: password
 George Ryan Saputra (5240311048)
 Prasetyo Budi Utomo (5240311035)
 Yoga Abdullah (5240311034)
-Mahirul Ilman (5240311022)
-Raka Fatih Wardhaan (5220311012)
